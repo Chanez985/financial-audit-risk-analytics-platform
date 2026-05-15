@@ -1,0 +1,21 @@
+invoice_id,invoice_number,supplier_name,department_name,invoice_date,invoice_amount,paid_flag,audit_rule_count,audit_risk_score,audit_risk_level,primary_risk_driver
+INV0001561,FCT-405039,Supplier_0225,Operations,2024-04-09,156405.61,1,6,38.17,High Risk,R12 - PO supplier mismatch
+INV0004894,FCT-493456,Supplier_0089,Human Resources,2024-02-14,1576.37,1,5,34.95,High Risk,R12 - PO supplier mismatch
+INV0001247,FCT-449128,Supplier_0003,Legal,2024-01-27,100000.0,1,6,34.41,High Risk,R12 - PO supplier mismatch
+INV0008474,FCT-328934,Supplier_0021,Risk Management,2024-09-13,27036.35,1,5,34.41,High Risk,R12 - PO supplier mismatch
+INV0006516,FCT-701982,Supplier_0074,Marketing,2024-06-19,138721.03,1,6,33.87,High Risk,R06 - Payment before invoice date
+INV0003952,FCT-843469,Supplier_0233,Operations,2024-10-20,100000.0,1,7,33.87,High Risk,R15 - PO not approved
+INV0001656,FCT-618610,Supplier_0001,Finance,2024-07-10,3104.28,1,5,33.87,High Risk,R12 - PO supplier mismatch
+INV0007928,FCT-704946,Supplier_0007,Logistics,2024-06-14,100000.0,1,7,32.8,High Risk,R13 - PO department mismatch
+INV0000672,FCT-510874,Supplier_0139,Logistics,2024-01-11,6015.69,1,4,32.26,High Risk,R12 - PO supplier mismatch
+INV0008035,FCT-146312,Supplier_0301,Sales,2024-11-24,28373.73,1,6,31.72,High Risk,R02 - Potential duplicate invoice
+INV0001409,FCT-940243,Supplier_0184,IT,2024-06-09,142149.89,1,5,31.18,High Risk,R06 - Payment before invoice date
+INV0007596,FCT-128892,Supplier_0008,Logistics,2024-11-23,100000.0,1,6,31.18,High Risk,R15 - PO not approved
+INV0007191,FCT-859209,Supplier_0023,IT,2024-07-13,1933.14,1,4,31.18,High Risk,R12 - PO supplier mismatch
+INV0005748,FCT-260509,Supplier_0002,Operations,2024-11-03,50000.0,1,6,30.65,High Risk,R02 - Potential duplicate invoice
+INV0001452,FCT-180085,Supplier_0011,Procurement,2024-04-25,100000.0,1,6,30.11,High Risk,R15 - PO not approved
+INV0002035,FCT-528008,Supplier_0002,Risk Management,2024-09-18,100000.0,1,6,30.11,High Risk,R15 - PO not approved
+INV0002917,FCT-310738,Supplier_0117,Operations,2024-12-19,100000.0,1,6,30.11,High Risk,R15 - PO not approved
+INV0006305,FCT-360582,Supplier_0101,Logistics,2024-07-08,100000.0,1,6,30.11,High Risk,R13 - PO department mismatch
+INV0007671,FCT-539637,Supplier_0147,Procurement,2024-05-11,81150.86,1,5,30.11,High Risk,R06 - Payment before invoice date
+INV0005755,FCT-360194,Supplier_0017,Operations,2024-12-14,14610.97,1,5,30.11,High Risk,R12 - PO supplier mismatch

@@ -1,0 +1,13 @@
+department_id,department_name,business_unit,Invoice_Count,Total_Invoice_Amount,Anomaly_Count,Average_Anomaly_Score,Average_Audit_Risk_Score,Max_Combined_Priority_Score,Anomaly_Rate
+DPT006,Marketing,Support,671,8260733.35,78,43.26,7.16,66.35,11.62
+DPT004,Operations,Technology,1043,14305206.97,53,30.95,8.46,68.53,5.08
+DPT009,Risk Management,Commercial,718,9080001.18,53,38.19,8.58,68.71,7.38
+DPT003,IT,Operations,945,12074008.06,46,31.22,8.88,65.23,4.87
+DPT002,Procurement,Operations,1157,14923333.75,33,28.0,7.06,64.24,2.85
+DPT012,General Administration,Support,385,4806487.84,28,40.02,9.01,63.87,7.27
+DPT007,Human Resources,Corporate,562,7693982.77,26,31.93,7.58,61.99,4.63
+DPT005,Sales,Technology,702,8214616.06,26,29.59,8.09,58.86,3.7
+DPT011,Logistics,Technology,483,6110813.49,24,34.22,7.71,71.19,4.97
+DPT008,Legal,Operations,399,5717785.4,23,33.54,7.72,64.81,5.76
+DPT001,Finance,Corporate,1163,14580303.83,21,27.38,7.25,57.63,1.81
+DPT010,Customer Support,Corporate,402,5593523.13,21,35.05,7.92,55.33,5.22

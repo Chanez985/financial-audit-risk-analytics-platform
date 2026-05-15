@@ -1,0 +1,17 @@
+Rule_Code,Rule_Name,Risk_Category,Severity,Risk_Weight,Flagged_Invoices,Flagged_Percentage,Total_Invoice_Amount
+R12,PO supplier mismatch,Procurement Control,Critical,20,285,3.3,3449634.85
+R02,Potential duplicate invoice,Duplicate Payment Risk,Critical,18,265,3.07,3780566.0
+R06,Payment before invoice date,Payment Timing,Critical,18,260,3.01,3444329.0
+R08,Payment amount mismatch,Payment Accuracy,Critical,18,7,0.08,87189.92
+R01,Invoice without purchase order,Procurement Control,High,12,1496,17.33,20623340.27
+R15,PO not approved,Approval Control,High,12,792,9.18,10887758.59
+R13,PO department mismatch,Procurement Control,High,12,356,4.13,4624716.25
+R04,High-value invoice,Financial Exposure,High,12,146,1.69,18479158.05
+R14,Invoice exceeds PO amount,Procurement Control,High,10,2893,33.52,67685330.82
+R07,Very late payment,Payment Timing,High,10,1227,14.22,15038911.87
+R05,Supplier missing tax ID,Supplier Master Data,High,10,502,5.82,6189450.55
+R10,Cash payment,Payment Method,High,10,171,1.98,2130617.85
+R11,Pending or failed payment,Payment Status,Medium,7,439,5.09,5596606.06
+R16,Above department approval threshold,Approval Control,Medium,6,2026,23.48,62837830.27
+R03,Round amount invoice,Amount Anomaly,Medium,6,426,4.94,14367000.0
+R09,Weekend payment,Payment Behavior,Medium,5,2459,28.49,32169411.07

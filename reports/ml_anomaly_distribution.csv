@@ -1,0 +1,3 @@
+ML_Anomaly_Flag,Invoices,Label,Percentage
+0,8198,Normal Transaction,94.99
+1,432,Detected Anomaly,5.01

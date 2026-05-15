@@ -1,0 +1,13 @@
+department_id,department_name,business_unit,Invoice_Count,Total_Invoice_Amount,Average_Invoice_Amount,Exception_Invoices,Average_Risk_Score,High_Risk_Invoices,Medium_Risk_Invoices,Missing_PO_Count,Duplicate_Risk_Count,Late_Payment_Count,Very_Late_Payment_Count,PO_Not_Approved_Count,Above_Threshold_Count,Exception_Rate,High_Risk_Rate,Spend_Share
+DPT012,General Administration,Support,385,4806487.84,12484.38,331,9.01,0,79,74,5,224,62,29,233,85.97,0.0,4.32
+DPT003,IT,Operations,945,12074008.06,12776.73,823,8.88,3,159,176,30,546,146,79,532,87.09,0.32,10.84
+DPT009,Risk Management,Commercial,718,9080001.18,12646.24,612,8.58,2,114,133,24,411,93,79,250,85.24,0.28,8.15
+DPT004,Operations,Technology,1043,14305206.97,13715.44,883,8.46,5,160,168,35,598,144,98,388,84.66,0.48,12.85
+DPT005,Sales,Technology,702,8214616.06,11701.73,573,8.09,1,100,123,18,401,105,75,238,81.62,0.14,7.38
+DPT010,Customer Support,Corporate,402,5593523.13,13914.24,322,7.92,0,58,63,17,226,48,35,148,80.1,0.0,5.02
+DPT008,Legal,Operations,399,5717785.4,14330.29,324,7.72,1,51,77,18,224,56,31,21,81.2,0.25,5.13
+DPT011,Logistics,Technology,483,6110813.49,12651.79,388,7.71,4,55,80,13,293,73,59,57,80.33,0.83,5.49
+DPT007,Human Resources,Corporate,562,7693982.77,13690.36,458,7.58,1,61,95,13,318,80,51,66,81.49,0.18,6.91
+DPT001,Finance,Corporate,1163,14580303.83,12536.8,945,7.25,1,112,207,43,647,167,106,39,81.26,0.09,13.09
+DPT006,Marketing,Support,671,8260733.35,12311.08,524,7.16,1,71,109,20,394,106,64,4,78.09,0.15,7.42
+DPT002,Procurement,Operations,1157,14923333.75,12898.3,933,7.06,2,105,191,29,624,147,86,50,80.64,0.17,13.4

@@ -1,0 +1,26 @@
+invoice_id,invoice_number,supplier_name,department_name,supplier_category,invoice_date,invoice_amount,paid_flag,audit_rule_count,audit_risk_score,audit_risk_level,ml_anomaly_flag,ml_anomaly_score,combined_review_priority_score,ml_review_priority,primary_risk_driver
+INV0006305,FCT-360582,Supplier_0101,Logistics,Professional Services,2024-07-08,100000.0,1,6,30.11,High Risk,1,98.58,71.19,Critical Review Priority,R13 - PO department mismatch
+INV0002035,FCT-528008,Supplier_0002,Risk Management,Training,2024-09-18,100000.0,1,6,30.11,High Risk,1,94.45,68.71,High Review Priority,R15 - PO not approved
+INV0001101,FCT-253802,Supplier_0018,Operations,Marketing Services,2024-04-05,106166.26,0,4,21.51,Medium Risk,1,99.88,68.53,High Review Priority,R15 - PO not approved
+INV0006516,FCT-701982,Supplier_0074,Marketing,Telecom,2024-06-19,138721.03,1,6,33.87,High Risk,1,88.0,66.35,High Review Priority,R06 - Payment before invoice date
+INV0006588,FCT-546673,Supplier_0016,IT,Consulting,2024-12-27,207315.99,1,4,17.74,Medium Risk,1,96.89,65.23,High Review Priority,R04 - High-value invoice
+INV0008590,FCT-533287,Supplier_0123,Legal,Maintenance,2024-11-24,706.91,0,2,16.13,Medium Risk,1,97.26,64.81,High Review Priority,R02 - Potential duplicate invoice
+INV0004163,FCT-759856,Supplier_0003,Marketing,Office Supplies,2024-07-17,96009.3,1,4,18.28,Medium Risk,1,95.7,64.73,High Review Priority,R13 - PO department mismatch
+INV0007814,FCT-396205,Supplier_0006,Procurement,Telecom,2024-12-09,100000.0,0,5,27.96,Medium Risk,1,88.43,64.24,High Review Priority,R02 - Potential duplicate invoice
+INV0002336,FCT-891175,Supplier_0003,General Administration,Office Supplies,2024-09-17,41780.44,0,2,9.68,Low Risk,1,100.0,63.87,High Review Priority,R01 - Invoice without purchase order
+INV0001590,FCT-458849,Supplier_0281,Marketing,Telecom,2024-12-17,66438.91,0,3,22.58,Medium Risk,1,90.88,63.56,High Review Priority,R12 - PO supplier mismatch
+INV0007849,FCT-928615,Supplier_0018,Marketing,Marketing Services,2024-11-16,100000.0,1,4,24.73,Medium Risk,1,87.47,62.37,High Review Priority,R02 - Potential duplicate invoice
+INV0007153,FCT-492144,Supplier_0073,Human Resources,Marketing Services,2024-12-24,100000.0,1,6,26.34,Medium Risk,1,85.75,61.99,High Review Priority,R04 - High-value invoice
+INV0003510,FCT-470879,Supplier_0011,General Administration,Marketing Services,2024-11-10,112977.21,1,4,20.43,Medium Risk,1,88.02,60.98,High Review Priority,R04 - High-value invoice
+INV0000582,FCT-604061,Supplier_0202,Logistics,Marketing Services,2024-05-12,80339.62,0,3,15.05,Medium Risk,1,91.0,60.62,High Review Priority,R01 - Invoice without purchase order
+INV0002917,FCT-310738,Supplier_0117,Operations,Facilities,2024-12-19,100000.0,1,6,30.11,High Risk,1,80.8,60.52,High Review Priority,R15 - PO not approved
+INV0008010,FCT-987220,Supplier_0015,General Administration,Telecom,2024-05-27,106175.87,0,3,15.05,Medium Risk,1,90.69,60.43,High Review Priority,R04 - High-value invoice
+INV0006411,FCT-743519,Supplier_0019,General Administration,Marketing Services,2024-02-10,110298.6,1,5,27.42,Medium Risk,1,82.35,60.38,High Review Priority,R06 - Payment before invoice date
+INV0001561,FCT-405039,Supplier_0225,Operations,Telecom,2024-04-09,156405.61,1,6,38.17,High Risk,1,75.04,60.29,High Review Priority,R12 - PO supplier mismatch
+INV0007199,FCT-252875,Supplier_0030,Human Resources,Logistics,2024-09-18,88851.55,1,5,22.04,Medium Risk,1,85.75,60.27,High Review Priority,R14 - Invoice exceeds PO amount
+INV0001116,FCT-374727,Supplier_0008,Operations,Logistics,2024-09-04,50000.0,1,5,20.97,Medium Risk,1,85.13,59.47,High Review Priority,R01 - Invoice without purchase order
+INV0007191,FCT-859209,Supplier_0023,IT,Telecom,2024-07-13,1933.14,1,4,31.18,High Risk,1,78.09,59.33,High Review Priority,R12 - PO supplier mismatch
+INV0007928,FCT-704946,Supplier_0007,Logistics,Telecom,2024-06-14,100000.0,1,7,32.8,High Risk,1,76.62,59.09,High Review Priority,R13 - PO department mismatch
+INV0007587,FCT-283086,Supplier_0169,Legal,Marketing Services,2024-12-04,222581.39,1,5,21.51,Medium Risk,1,84.13,59.08,High Review Priority,R04 - High-value invoice
+INV0004513,FCT-644592,Supplier_0252,Legal,Maintenance,2024-12-03,100000.0,0,4,18.28,Medium Risk,1,86.06,58.95,High Review Priority,R04 - High-value invoice
+INV0007478,FCT-940950,Supplier_0279,Sales,Office Supplies,2024-12-24,23592.96,0,1,3.23,Low Risk,1,95.95,58.86,High Review Priority,R16 - Above department approval threshold

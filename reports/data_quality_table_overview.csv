@@ -1,0 +1,6 @@
+Table,Rows,Columns,Duplicate_Rows,Missing_Values_Total
+suppliers,320,8,0,18
+departments,12,4,0,0
+purchase_orders,5200,7,0,0
+invoices,8630,11,0,1496
+payments,7918,8,0,0

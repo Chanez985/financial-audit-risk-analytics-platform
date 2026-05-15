@@ -1,0 +1,13 @@
+department_id,department_name,business_unit,approval_threshold
+DPT001,Finance,Corporate,50000
+DPT002,Procurement,Operations,50000
+DPT003,IT,Operations,5000
+DPT004,Operations,Technology,10000
+DPT005,Sales,Technology,10000
+DPT006,Marketing,Support,100000
+DPT007,Human Resources,Corporate,25000
+DPT008,Legal,Operations,50000
+DPT009,Risk Management,Commercial,10000
+DPT010,Customer Support,Corporate,10000
+DPT011,Logistics,Technology,25000
+DPT012,General Administration,Support,5000

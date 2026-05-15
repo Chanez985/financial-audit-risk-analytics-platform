@@ -1,0 +1,12 @@
+Risk_Category,Exceptions,Unique_Invoices,Total_Invoice_Amount,Average_Risk_Score
+Procurement Control,5030,4809,96383022.19,11.46
+Approval Control,2818,2627,73725588.86,12.52
+Payment Behavior,2459,2459,32169411.07,9.95
+Payment Timing,1487,1487,18483240.87,13.21
+Supplier Master Data,502,502,6189450.55,12.93
+Payment Status,439,439,5596606.06,11.32
+Amount Anomaly,426,426,14367000.0,14.29
+Duplicate Payment Risk,265,265,3780566.0,16.78
+Payment Method,171,171,2130617.85,13.83
+Financial Exposure,146,146,18479158.05,20.96
+Payment Accuracy,7,7,87189.92,16.97

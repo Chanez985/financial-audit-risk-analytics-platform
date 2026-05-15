@@ -1,0 +1,6 @@
+audit_risk_level,Normal by ML,Anomaly by ML,All
+High Risk,11,10,21
+Low Risk,5747,223,5970
+Medium Risk,994,131,1125
+No Exception,1446,68,1514
+All,8198,432,8630

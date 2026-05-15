@@ -1,0 +1,4 @@
+currency,Invoice_Count,Total_Invoice_Amount,Average_Risk_Score,Exception_Invoices,Exception_Rate
+DZD,7082,91189049.85,7.86,5819,82.17
+EUR,982,12403268.81,8.08,826,84.11
+USD,566,7768477.17,8.04,471,83.22

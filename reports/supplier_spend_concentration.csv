@@ -1,0 +1,321 @@
+supplier_id,Invoice_Count,Total_Invoice_Amount,Spend_Share,supplier_name,supplier_category,supplier_country
+SUP00009,325,4126869.98,3.71,Supplier_0009,IT Services,Algeria
+SUP00005,288,4000165.6,3.59,Supplier_0005,Consulting,Algeria
+SUP00002,282,3877256.38,3.48,Supplier_0002,Training,Germany
+SUP00010,274,3646952.1,3.27,Supplier_0010,Facilities,Algeria
+SUP00003,282,3549871.85,3.19,Supplier_0003,Office Supplies,Turkey
+SUP00004,266,3516104.72,3.16,Supplier_0004,Professional Services,Turkey
+SUP00007,264,3435461.61,3.08,Supplier_0007,Telecom,Germany
+SUP00006,278,3420743.95,3.07,Supplier_0006,Telecom,Algeria
+SUP00008,269,3250205.03,2.92,Supplier_0008,Logistics,France
+SUP00001,233,2431526.33,2.18,Supplier_0001,Training,Turkey
+SUP00014,94,2084318.3199999998,1.87,Supplier_0014,Telecom,Algeria
+SUP00015,104,1678146.75,1.51,Supplier_0015,Telecom,Algeria
+SUP00024,108,1493229.5,1.34,Supplier_0024,Professional Services,Morocco
+SUP00023,112,1468913.02,1.32,Supplier_0023,Telecom,Germany
+SUP00021,119,1462405.71,1.31,Supplier_0021,Maintenance,Algeria
+SUP00025,95,1358357.43,1.22,Supplier_0025,Facilities,Algeria
+SUP00013,117,1345019.77,1.21,Supplier_0013,Professional Services,Tunisia
+SUP00030,102,1276173.34,1.15,Supplier_0030,Logistics,France
+SUP00028,92,1229279.75,1.1,Supplier_0028,Facilities,Algeria
+SUP00019,83,1225469.15,1.1,Supplier_0019,Marketing Services,France
+SUP00026,88,1183861.53,1.06,Supplier_0026,Telecom,Algeria
+SUP00012,103,1180688.31,1.06,Supplier_0012,Training,Algeria
+SUP00029,82,1131199.95,1.02,Supplier_0029,Marketing Services,Algeria
+SUP00017,79,1049765.68,0.94,Supplier_0017,Logistics,Algeria
+SUP00027,88,984887.86,0.88,Supplier_0027,Logistics,Algeria
+SUP00022,82,962821.82,0.86,Supplier_0022,Consulting,Algeria
+SUP00018,62,936673.89,0.84,Supplier_0018,Marketing Services,Algeria
+SUP00016,69,931810.74,0.84,Supplier_0016,Consulting,United Arab Emirates
+SUP00011,81,894262.68,0.8,Supplier_0011,Marketing Services,Germany
+SUP00177,35,762069.87,0.68,Supplier_0177,Telecom,Algeria
+SUP00073,22,726513.0900000001,0.65,Supplier_0073,Marketing Services,France
+SUP00020,73,663902.14,0.6,Supplier_0020,IT Services,United Arab Emirates
+SUP00214,29,605122.24,0.54,Supplier_0214,IT Services,Algeria
+SUP00224,28,575927.99,0.52,Supplier_0224,Maintenance,Turkey
+SUP00038,24,498745.89,0.45,Supplier_0038,Consulting,Spain
+SUP00273,20,473944.14,0.43,Supplier_0273,Logistics,Algeria
+SUP00125,25,467320.18,0.42,Supplier_0125,Facilities,Algeria
+SUP00093,31,460992.15,0.41,Supplier_0093,Maintenance,Algeria
+SUP00252,16,436141.35,0.39,Supplier_0252,Maintenance,United Kingdom
+SUP00284,15,430844.22000000003,0.39,Supplier_0284,Telecom,Algeria
+SUP00076,11,421997.99000000005,0.38,Supplier_0076,Telecom,Algeria
+SUP00080,14,407922.66,0.37,Supplier_0080,Maintenance,Algeria
+SUP00225,22,406911.91,0.37,Supplier_0225,Telecom,Germany
+SUP00055,22,401555.01,0.36,Supplier_0055,Marketing Services,Tunisia
+SUP00317,16,400352.92,0.36,Supplier_0317,Office Supplies,Germany
+SUP00275,14,400046.61000000004,0.36,Supplier_0275,Professional Services,Spain
+SUP00063,22,396746.93,0.36,Supplier_0063,Professional Services,United Kingdom
+SUP00161,14,395359.77999999997,0.36,Supplier_0161,Logistics,Algeria
+SUP00109,25,388886.65,0.35,Supplier_0109,Facilities,Algeria
+SUP00045,17,384271.52,0.35,Supplier_0045,Facilities,France
+SUP00168,8,374244.54,0.34,Supplier_0168,Professional Services,United Kingdom
+SUP00062,14,373961.20999999996,0.34,Supplier_0062,Professional Services,Algeria
+SUP00238,28,363825.64,0.33,Supplier_0238,Facilities,Algeria
+SUP00150,19,352933.36,0.32,Supplier_0150,Marketing Services,Algeria
+SUP00074,21,349749.44,0.31,Supplier_0074,Telecom,United Arab Emirates
+SUP00279,20,349721.02,0.31,Supplier_0279,Office Supplies,Morocco
+SUP00171,24,348442.58,0.31,Supplier_0171,Telecom,France
+SUP00319,23,347340.83999999997,0.31,Supplier_0319,Facilities,Algeria
+SUP00088,29,328727.88,0.3,Supplier_0088,Marketing Services,Algeria
+SUP00116,18,327143.45,0.29,Supplier_0116,Office Supplies,Algeria
+SUP00097,23,326507.77,0.29,Supplier_0097,IT Services,Spain
+SUP00299,15,322732.58,0.29,Supplier_0299,Marketing Services,Algeria
+SUP00182,13,319418.94,0.29,Supplier_0182,IT Services,France
+SUP00117,12,318502.98,0.29,Supplier_0117,Facilities,United Arab Emirates
+SUP00100,20,315095.46,0.28,Supplier_0100,Logistics,Algeria
+SUP00037,26,303930.7,0.27,Supplier_0037,Marketing Services,Spain
+SUP00281,8,300452.51,0.27,Supplier_0281,Telecom,Germany
+SUP00142,13,297938.14,0.27,Supplier_0142,Consulting,Tunisia
+SUP00285,15,297304.81,0.27,Supplier_0285,Logistics,Tunisia
+SUP00044,16,293014.13,0.26,Supplier_0044,Professional Services,Algeria
+SUP00031,19,289726.72,0.26,Supplier_0031,Facilities,Algeria
+SUP00192,13,286143.44999999995,0.26,Supplier_0192,Maintenance,Turkey
+SUP00288,19,283906.27,0.25,Supplier_0288,Facilities,Spain
+SUP00129,18,279511.26,0.25,Supplier_0129,Marketing Services,Algeria
+SUP00058,20,278451.97,0.25,Supplier_0058,Logistics,United Kingdom
+SUP00236,17,278386.24,0.25,Supplier_0236,IT Services,Turkey
+SUP00266,14,276362.54,0.25,Supplier_0266,Training,Algeria
+SUP00057,21,269334.02,0.24,Supplier_0057,Training,Tunisia
+SUP00078,19,269071.13,0.24,Supplier_0078,Marketing Services,Germany
+SUP00228,14,267331.12,0.24,Supplier_0228,Facilities,United Arab Emirates
+SUP00233,18,266617.06,0.24,Supplier_0233,Professional Services,France
+SUP00115,13,266431.51,0.24,Supplier_0115,Training,Turkey
+SUP00092,15,261814.01,0.24,Supplier_0092,Telecom,Algeria
+SUP00130,23,260803.55,0.23,Supplier_0130,Training,France
+SUP00081,26,260556.7,0.23,Supplier_0081,IT Services,Algeria
+SUP00098,11,257508.56,0.23,Supplier_0098,Maintenance,Algeria
+SUP00134,18,253721.58000000002,0.23,Supplier_0134,IT Services,Algeria
+SUP00113,16,253573.81,0.23,Supplier_0113,Training,United Arab Emirates
+SUP00257,21,253386.71,0.23,Supplier_0257,Facilities,Algeria
+SUP00169,8,249442.54000000004,0.22,Supplier_0169,Marketing Services,Tunisia
+SUP00253,18,246666.85,0.22,Supplier_0253,Maintenance,Turkey
+SUP00091,19,244821.18,0.22,Supplier_0091,IT Services,Algeria
+SUP00297,20,243942.8,0.22,Supplier_0297,Logistics,Algeria
+SUP00123,19,242056.28,0.22,Supplier_0123,Maintenance,Germany
+SUP00153,19,238388.06,0.21,Supplier_0153,Office Supplies,Spain
+SUP00096,16,237616.62,0.21,Supplier_0096,Maintenance,France
+SUP00274,14,234512.86000000002,0.21,Supplier_0274,Consulting,Turkey
+SUP00219,18,232568.83000000002,0.21,Supplier_0219,Professional Services,United Kingdom
+SUP00042,22,227433.05,0.2,Supplier_0042,Office Supplies,Algeria
+SUP00086,17,226578.66999999998,0.2,Supplier_0086,Professional Services,Algeria
+SUP00114,14,225449.41,0.2,Supplier_0114,IT Services,Algeria
+SUP00138,15,225130.71,0.2,Supplier_0138,Telecom,Algeria
+SUP00163,15,224663.12,0.2,Supplier_0163,Logistics,Algeria
+SUP00178,20,224244.83000000002,0.2,Supplier_0178,Marketing Services,Algeria
+SUP00249,24,222579.72,0.2,Supplier_0249,Marketing Services,Algeria
+SUP00079,16,222276.29,0.2,Supplier_0079,Maintenance,United Kingdom
+SUP00146,19,220362.57,0.2,Supplier_0146,Consulting,Algeria
+SUP00179,22,217576.86,0.2,Supplier_0179,Telecom,Germany
+SUP00128,17,217431.38,0.2,Supplier_0128,Marketing Services,Algeria
+SUP00298,13,214892.37,0.19,Supplier_0298,Training,Algeria
+SUP00265,16,214403.29,0.19,Supplier_0265,Logistics,Spain
+SUP00259,12,213226.64,0.19,Supplier_0259,Maintenance,Algeria
+SUP00107,18,211775.28999999998,0.19,Supplier_0107,Office Supplies,Algeria
+SUP00174,17,211690.84,0.19,Supplier_0174,Telecom,Algeria
+SUP00287,12,211299.69,0.19,Supplier_0287,Professional Services,Algeria
+SUP00202,13,208911.74,0.19,Supplier_0202,Marketing Services,Spain
+SUP00059,14,208180.94,0.19,Supplier_0059,Training,Algeria
+SUP00066,12,207709.02000000002,0.19,Supplier_0066,Consulting,Algeria
+SUP00240,14,199857.59,0.18,Supplier_0240,Marketing Services,Germany
+SUP00302,16,199196.34,0.18,Supplier_0302,Logistics,Algeria
+SUP00210,21,199053.52,0.18,Supplier_0210,IT Services,Tunisia
+SUP00156,13,197522.55,0.18,Supplier_0156,Professional Services,United Arab Emirates
+SUP00184,8,197372.23,0.18,Supplier_0184,Facilities,Algeria
+SUP00243,28,195360.99,0.18,Supplier_0243,IT Services,France
+SUP00203,16,194591.02,0.17,Supplier_0203,Logistics,Algeria
+SUP00291,19,193765.28,0.17,Supplier_0291,Office Supplies,Algeria
+SUP00283,17,192771.5,0.17,Supplier_0283,Facilities,Algeria
+SUP00143,16,189831.38999999998,0.17,Supplier_0143,Facilities,Turkey
+SUP00320,24,189545.61,0.17,Supplier_0320,Facilities,France
+SUP00040,20,189140.3,0.17,Supplier_0040,Marketing Services,Algeria
+SUP00207,14,188846.41,0.17,Supplier_0207,IT Services,Algeria
+SUP00052,11,188834.12,0.17,Supplier_0052,Logistics,Algeria
+SUP00318,15,187746.69,0.17,Supplier_0318,Marketing Services,Algeria
+SUP00158,17,187317.06,0.17,Supplier_0158,Logistics,France
+SUP00198,18,186853.73,0.17,Supplier_0198,Telecom,Algeria
+SUP00204,20,184092.47,0.17,Supplier_0204,Professional Services,Tunisia
+SUP00069,16,183389.78,0.16,Supplier_0069,Telecom,France
+SUP00120,16,182941.72,0.16,Supplier_0120,Professional Services,United Kingdom
+SUP00278,19,181190.84,0.16,Supplier_0278,Office Supplies,Algeria
+SUP00286,13,180724.47,0.16,Supplier_0286,Consulting,Algeria
+SUP00309,16,179712.51,0.16,Supplier_0309,Facilities,Algeria
+SUP00147,17,177322.62,0.16,Supplier_0147,Marketing Services,United Arab Emirates
+SUP00276,19,176790.85,0.16,Supplier_0276,Professional Services,Algeria
+SUP00139,19,176350.26,0.16,Supplier_0139,Professional Services,Algeria
+SUP00195,12,175137.68,0.16,Supplier_0195,Marketing Services,Algeria
+SUP00119,16,171765.08000000002,0.15,Supplier_0119,Marketing Services,Morocco
+SUP00200,11,170755.84,0.15,Supplier_0200,Telecom,Algeria
+SUP00314,12,170094.23,0.15,Supplier_0314,Consulting,France
+SUP00235,13,170078.63,0.15,Supplier_0235,Office Supplies,Algeria
+SUP00101,11,169967.91999999998,0.15,Supplier_0101,Professional Services,United Arab Emirates
+SUP00188,11,169775.0,0.15,Supplier_0188,Office Supplies,Algeria
+SUP00165,7,169631.80000000002,0.15,Supplier_0165,Logistics,United Kingdom
+SUP00034,8,169485.6,0.15,Supplier_0034,Marketing Services,France
+SUP00254,10,167529.81,0.15,Supplier_0254,Marketing Services,Germany
+SUP00307,8,165934.12,0.15,Supplier_0307,Professional Services,Algeria
+SUP00201,15,165378.72,0.15,Supplier_0201,Professional Services,Algeria
+SUP00232,17,164847.47,0.15,Supplier_0232,Logistics,Morocco
+SUP00223,20,162267.87,0.15,Supplier_0223,Consulting,Algeria
+SUP00159,13,161911.53,0.15,Supplier_0159,Facilities,Algeria
+SUP00251,17,161531.43000000002,0.15,Supplier_0251,Consulting,Algeria
+SUP00170,16,160911.51,0.14,Supplier_0170,Office Supplies,Algeria
+SUP00118,10,160468.39,0.14,Supplier_0118,Office Supplies,Turkey
+SUP00304,17,159361.3,0.14,Supplier_0304,Facilities,Algeria
+SUP00131,14,157894.65,0.14,Supplier_0131,Logistics,Algeria
+SUP00296,13,157545.94999999998,0.14,Supplier_0296,Logistics,Algeria
+SUP00293,21,156665.21,0.14,Supplier_0293,Consulting,Algeria
+SUP00211,13,156026.42,0.14,Supplier_0211,Telecom,Algeria
+SUP00267,15,153980.49000000002,0.14,Supplier_0267,IT Services,Algeria
+SUP00308,12,153971.75,0.14,Supplier_0308,Maintenance,Algeria
+SUP00294,10,153616.73,0.14,Supplier_0294,Maintenance,Algeria
+SUP00082,17,151005.3,0.14,Supplier_0082,Consulting,France
+SUP00085,14,150944.0,0.14,Supplier_0085,Marketing Services,Algeria
+SUP00231,17,150827.37,0.14,Supplier_0231,Marketing Services,Algeria
+SUP00197,12,150816.35,0.14,Supplier_0197,IT Services,Algeria
+SUP00154,11,150108.23,0.13,Supplier_0154,Logistics,Algeria
+SUP00051,20,149578.77,0.13,Supplier_0051,IT Services,France
+SUP00072,17,149351.88,0.13,Supplier_0072,Professional Services,Algeria
+SUP00070,14,148943.16,0.13,Supplier_0070,Telecom,Algeria
+SUP00239,12,148655.15,0.13,Supplier_0239,Marketing Services,Algeria
+SUP00087,11,148026.64,0.13,Supplier_0087,Professional Services,Turkey
+SUP00246,12,147448.82,0.13,Supplier_0246,Marketing Services,Algeria
+SUP00089,13,146355.47,0.13,Supplier_0089,Training,Algeria
+SUP00141,18,145206.17,0.13,Supplier_0141,Telecom,Algeria
+SUP00110,21,144889.46,0.13,Supplier_0110,Training,Algeria
+SUP00095,11,142665.83,0.13,Supplier_0095,Maintenance,Algeria
+SUP00289,8,142495.04,0.13,Supplier_0289,Facilities,France
+SUP00311,6,141028.25,0.13,Supplier_0311,Facilities,Algeria
+SUP00033,15,140210.62,0.13,Supplier_0033,IT Services,Spain
+SUP00247,18,139033.45,0.12,Supplier_0247,Professional Services,France
+SUP00176,14,138154.44,0.12,Supplier_0176,Telecom,Algeria
+SUP00181,15,135050.22,0.12,Supplier_0181,IT Services,Algeria
+SUP00245,13,134036.24,0.12,Supplier_0245,Office Supplies,Algeria
+SUP00305,11,133299.11000000002,0.12,Supplier_0305,Professional Services,France
+SUP00270,7,132931.04,0.12,Supplier_0270,Consulting,France
+SUP00226,12,132659.41,0.12,Supplier_0226,Consulting,Algeria
+SUP00295,13,132659.2,0.12,Supplier_0295,Maintenance,Algeria
+SUP00056,12,132534.38999999998,0.12,Supplier_0056,Training,France
+SUP00054,20,132091.97,0.12,Supplier_0054,Training,Algeria
+SUP00241,14,131447.91,0.12,Supplier_0241,Marketing Services,Algeria
+SUP00149,18,131237.46,0.12,Supplier_0149,Marketing Services,United Kingdom
+SUP00271,17,130385.45,0.12,Supplier_0271,Logistics,Algeria
+SUP00280,18,130308.34,0.12,Supplier_0280,Professional Services,Algeria
+SUP00313,15,129846.18,0.12,Supplier_0313,Consulting,Spain
+SUP00242,14,129573.58,0.12,Supplier_0242,Telecom,Turkey
+SUP00060,17,127831.41,0.11,Supplier_0060,Office Supplies,Germany
+SUP00269,19,127829.76000000001,0.11,Supplier_0269,Maintenance,Morocco
+SUP00183,11,127322.54,0.11,Supplier_0183,Marketing Services,Tunisia
+SUP00209,13,126049.12999999999,0.11,Supplier_0209,Professional Services,Spain
+SUP00244,11,125895.12000000001,0.11,Supplier_0244,IT Services,Algeria
+SUP00075,16,125835.67,0.11,Supplier_0075,Office Supplies,Algeria
+SUP00122,11,125809.09999999999,0.11,Supplier_0122,Maintenance,France
+SUP00167,13,125760.06,0.11,Supplier_0167,Marketing Services,Germany
+SUP00084,14,125444.31999999999,0.11,Supplier_0084,Consulting,United Kingdom
+SUP00229,14,125058.48,0.11,Supplier_0229,Facilities,Algeria
+SUP00043,8,124639.35,0.11,Supplier_0043,Maintenance,Algeria
+SUP00094,13,124591.6,0.11,Supplier_0094,Professional Services,Algeria
+SUP00301,17,123829.93,0.11,Supplier_0301,Facilities,France
+SUP00135,13,123221.28,0.11,Supplier_0135,Consulting,Algeria
+SUP00148,10,122291.93,0.11,Supplier_0148,Professional Services,France
+SUP00032,11,121719.91,0.11,Supplier_0032,Logistics,Algeria
+SUP00205,13,121334.41,0.11,Supplier_0205,Consulting,Germany
+SUP00230,15,120553.83,0.11,Supplier_0230,Maintenance,United Arab Emirates
+SUP00140,11,120105.06,0.11,Supplier_0140,Marketing Services,Spain
+SUP00172,9,120049.45999999999,0.11,Supplier_0172,Facilities,Algeria
+SUP00061,11,118661.92,0.11,Supplier_0061,Office Supplies,Algeria
+SUP00255,9,115554.23,0.1,Supplier_0255,Training,Spain
+SUP00186,13,114137.69,0.1,Supplier_0186,Marketing Services,Algeria
+SUP00315,14,113413.6,0.1,Supplier_0315,Maintenance,France
+SUP00124,14,112875.39,0.1,Supplier_0124,Telecom,Algeria
+SUP00185,15,112010.73000000001,0.1,Supplier_0185,Consulting,Algeria
+SUP00065,13,110994.12,0.1,Supplier_0065,Training,Algeria
+SUP00157,8,109277.84,0.1,Supplier_0157,Professional Services,Algeria
+SUP00217,8,107101.15000000001,0.1,Supplier_0217,Consulting,Algeria
+SUP00108,18,106903.5,0.1,Supplier_0108,Marketing Services,Algeria
+SUP00175,7,106811.72,0.1,Supplier_0175,Office Supplies,Algeria
+SUP00190,8,106612.44,0.1,Supplier_0190,Logistics,France
+SUP00039,7,106516.61,0.1,Supplier_0039,Professional Services,Algeria
+SUP00049,13,106410.93000000001,0.1,Supplier_0049,Professional Services,Algeria
+SUP00215,17,106321.72,0.1,Supplier_0215,Consulting,France
+SUP00220,12,105167.04000000001,0.09,Supplier_0220,Consulting,Algeria
+SUP00193,7,104038.89,0.09,Supplier_0193,Maintenance,Germany
+SUP00292,16,102922.97,0.09,Supplier_0292,IT Services,Algeria
+SUP00035,13,101922.71,0.09,Supplier_0035,Telecom,Algeria
+SUP00102,7,101778.86,0.09,Supplier_0102,IT Services,United Arab Emirates
+SUP00152,14,101283.21,0.09,Supplier_0152,Logistics,Algeria
+SUP00310,8,100513.25,0.09,Supplier_0310,Office Supplies,Algeria
+SUP00083,12,99897.31999999999,0.09,Supplier_0083,Office Supplies,Algeria
+SUP00227,11,99786.43,0.09,Supplier_0227,Office Supplies,Morocco
+SUP00199,11,99777.74,0.09,Supplier_0199,Marketing Services,Tunisia
+SUP00250,13,99575.90000000001,0.09,Supplier_0250,Facilities,United Arab Emirates
+SUP00194,10,98791.69,0.09,Supplier_0194,Consulting,Algeria
+SUP00046,10,97732.3,0.09,Supplier_0046,Marketing Services,Tunisia
+SUP00187,12,96745.12,0.09,Supplier_0187,Telecom,France
+SUP00206,10,96249.43000000001,0.09,Supplier_0206,Maintenance,Algeria
+SUP00127,9,95952.93,0.09,Supplier_0127,Marketing Services,United Arab Emirates
+SUP00222,11,95218.38,0.09,Supplier_0222,Consulting,Algeria
+SUP00248,11,95188.58,0.09,Supplier_0248,Marketing Services,United Kingdom
+SUP00303,9,93735.06,0.08,Supplier_0303,Office Supplies,Algeria
+SUP00261,10,92389.85,0.08,Supplier_0261,Training,Germany
+SUP00164,12,91857.2,0.08,Supplier_0164,Facilities,Tunisia
+SUP00260,8,90998.45,0.08,Supplier_0260,Maintenance,Algeria
+SUP00104,10,90944.76999999999,0.08,Supplier_0104,Marketing Services,Algeria
+SUP00237,8,90633.32,0.08,Supplier_0237,Consulting,Algeria
+SUP00053,14,90570.33,0.08,Supplier_0053,Telecom,Algeria
+SUP00105,10,89799.56,0.08,Supplier_0105,Facilities,Algeria
+SUP00064,9,87413.72,0.08,Supplier_0064,Consulting,United Kingdom
+SUP00312,11,87108.53,0.08,Supplier_0312,Facilities,Algeria
+SUP00068,10,86827.74,0.08,Supplier_0068,IT Services,United Arab Emirates
+SUP00282,13,86729.51,0.08,Supplier_0282,Telecom,France
+SUP00218,14,85111.16,0.08,Supplier_0218,Logistics,Algeria
+SUP00300,9,84928.41,0.08,Supplier_0300,Training,France
+SUP00155,12,84903.07,0.08,Supplier_0155,Professional Services,Spain
+SUP00191,7,83358.95,0.07,Supplier_0191,Training,Algeria
+SUP00133,11,81599.52,0.07,Supplier_0133,Logistics,Algeria
+SUP00256,11,80467.54000000001,0.07,Supplier_0256,Office Supplies,United Arab Emirates
+SUP00277,11,78387.67,0.07,Supplier_0277,Consulting,Algeria
+SUP00216,7,77439.19,0.07,Supplier_0216,Marketing Services,Spain
+SUP00258,10,75244.36,0.07,Supplier_0258,Logistics,Algeria
+SUP00173,15,73909.9,0.07,Supplier_0173,Office Supplies,France
+SUP00136,9,73459.54,0.07,Supplier_0136,IT Services,Algeria
+SUP00111,10,73383.68,0.07,Supplier_0111,IT Services,Algeria
+SUP00048,9,72072.61,0.06,Supplier_0048,Training,Turkey
+SUP00268,9,70474.92,0.06,Supplier_0268,Training,Spain
+SUP00067,8,70352.51,0.06,Supplier_0067,Training,France
+SUP00234,10,69844.82,0.06,Supplier_0234,Maintenance,France
+SUP00306,8,68309.81,0.06,Supplier_0306,Office Supplies,Algeria
+SUP00213,14,68302.54000000001,0.06,Supplier_0213,Telecom,France
+SUP00290,10,68115.66,0.06,Supplier_0290,Office Supplies,Tunisia
+SUP00180,7,67380.88,0.06,Supplier_0180,Office Supplies,United Kingdom
+SUP00099,11,66278.87,0.06,Supplier_0099,Telecom,Algeria
+SUP00090,6,65899.20999999999,0.06,Supplier_0090,Maintenance,Algeria
+SUP00316,7,65283.34,0.06,Supplier_0316,IT Services,Algeria
+SUP00208,11,64360.78,0.06,Supplier_0208,Professional Services,Morocco
+SUP00112,7,64195.35,0.06,Supplier_0112,Office Supplies,Algeria
+SUP00047,11,63949.28,0.06,Supplier_0047,Consulting,Algeria
+SUP00137,10,62675.61,0.06,Supplier_0137,Telecom,Algeria
+SUP00272,6,61740.9,0.06,Supplier_0272,Maintenance,France
+SUP00263,6,60929.979999999996,0.05,Supplier_0263,Office Supplies,United Arab Emirates
+SUP00132,6,58637.270000000004,0.05,Supplier_0132,Consulting,Algeria
+SUP00160,9,58210.670000000006,0.05,Supplier_0160,IT Services,Spain
+SUP00145,9,55584.25,0.05,Supplier_0145,Facilities,Algeria
+SUP00262,6,55427.630000000005,0.05,Supplier_0262,Marketing Services,France
+SUP00151,11,52458.409999999996,0.05,Supplier_0151,Consulting,France
+SUP00036,7,52423.32,0.05,Supplier_0036,Consulting,United Kingdom
+SUP00126,12,51780.79,0.05,Supplier_0126,Professional Services,Algeria
+SUP00103,5,50769.41,0.05,Supplier_0103,Logistics,Algeria
+SUP00212,11,47615.29,0.04,Supplier_0212,Marketing Services,United Arab Emirates
+SUP00162,5,42822.17,0.04,Supplier_0162,Consulting,Tunisia
+SUP00196,6,40715.95,0.04,Supplier_0196,Training,Algeria
+SUP00106,3,37655.53,0.03,Supplier_0106,Office Supplies,Algeria
+SUP00264,7,37639.659999999996,0.03,Supplier_0264,IT Services,Algeria
+SUP00144,7,36892.9,0.03,Supplier_0144,Maintenance,Algeria
+SUP00050,6,35794.01,0.03,Supplier_0050,Telecom,Algeria
+SUP00166,7,35697.53,0.03,Supplier_0166,Facilities,France
+SUP00041,5,25242.83,0.02,Supplier_0041,Logistics,Turkey
+SUP00189,6,24433.21,0.02,Supplier_0189,Telecom,Germany
+SUP00077,3,19720.02,0.02,Supplier_0077,Maintenance,Algeria
+SUP00121,3,19682.9,0.02,Supplier_0121,Consulting,Germany
+SUP00221,5,9842.45,0.01,Supplier_0221,Professional Services,Algeria
+SUP00071,1,1124.33,0.0,Supplier_0071,Telecom,Algeria

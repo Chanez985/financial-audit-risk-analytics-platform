@@ -1,0 +1,26 @@
+KPI,Value
+Total Invoices,8630
+Total Invoice Amount,111360795.83
+Paid Invoices,7918
+Unpaid Invoices,712
+Paid Invoice Share (%),91.75
+Invoices with Audit Exceptions,7116
+Audit Exception Rate (%),82.46
+No Exception Invoices,1514
+Low Risk Invoices,5970
+Medium Risk Invoices,1125
+High/Critical Risk Invoices,21
+High/Critical Risk Exposure,1462865.12
+Medium-to-High Risk Exposure,36608350.25
+Average Audit Risk Score,7.9
+Median Audit Risk Score,6.45
+Duplicate Risk Invoices,265
+Missing PO Invoices,1496
+Late Payment Invoices,4906
+Very Late Payment Invoices,1227
+Payment Before Invoice Date,260
+Procurement Exception Invoices,5236
+Payment Exception Invoices,3818
+High-Risk Suppliers,13
+Top Risk Supplier,Supplier_0184
+Top Risk Supplier Score,66.59

@@ -1,0 +1,17 @@
+Category,Audit_Check,Number_of_Records,Percentage
+Invoice Checks,Invoices without purchase order,1496,17.33
+Invoice Checks,Zero or negative invoice amount,0,0.0
+Invoice Checks,Due date before invoice date,0,0.0
+Invoice Checks,Round amount invoices,426,4.94
+Invoice Checks,"High-value invoices >= 100,000",146,1.69
+Invoice Checks,Potential duplicate invoices,56,0.65
+Payment Checks,Payments before invoice date,260,3.28
+Payment Checks,Payments after due date,4906,61.96
+Payment Checks,Payments more than 30 days late,1227,15.5
+Payment Checks,Payment amount mismatch > 5%,7,0.09
+Payment Checks,Weekend payments,2459,31.06
+Payment Checks,Cash payments,171,2.16
+Payment Checks,Pending or failed payments,439,5.54
+Supplier Master Data,Suppliers missing tax_id,18,5.62
+Supplier Master Data,Suppliers missing bank account,0,0.0
+Supplier Master Data,Suppliers with duplicate bank account,0,0.0

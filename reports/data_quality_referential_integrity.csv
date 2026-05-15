@@ -1,0 +1,7 @@
+Check,Number_of_Records,Percentage
+Invoices with invalid supplier_id,0,0.0
+Invoices with invalid department_id,0,0.0
+Invoices with invalid po_id,0,0.0
+Payments with invalid invoice_id,0,0.0
+Payments with invalid supplier_id,0,0.0
+Payments with invalid department_id,0,0.0

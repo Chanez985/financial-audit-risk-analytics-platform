@@ -1,0 +1,6 @@
+business_unit,Invoice_Count,Total_Invoice_Amount,Exception_Invoices,Average_Risk_Score,High_Risk_Invoices,Medium_Risk_Invoices,Exception_Rate,High_Risk_Rate
+Commercial,718,9080001.18,612,8.58,2,114,85.24,0.28
+Technology,2228,28630636.52,1844,8.18,10,315,82.76,0.45
+Operations,2501,32715127.21,2080,7.85,6,315,83.17,0.24
+Support,1056,13067221.19,855,7.83,1,150,80.97,0.09
+Corporate,2127,27867809.73,1725,7.46,2,231,81.1,0.09
